@@ -1,2 +1,2 @@
 # JavaProjects
-Some of my Java projects from college.
+Some of my Java projects from MTU and DCU.
